@@ -25,5 +25,20 @@ knit        : slidify::knit2slides
 - Hello world 2
 - hello world 3
 
+--- 
+## Question 1
+
+What is 1 + 1
+
+1. 1
+2. _2_
+3. 3
+4. 4
+
+*** .hint This is hint
+*** .explanation This is explanation
+
+
+
 
 
