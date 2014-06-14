@@ -25,6 +25,7 @@ knit        : slidify::knit2slides
 - Hello world 2
 - hello world 3
 
+<<<<<<< HEAD
 --- 
 ## Question 1
 
@@ -40,5 +41,7 @@ What is 1 + 1
 
 
 
+=======
+>>>>>>> 11e4dd6082375de377656022023bdf9df2e9d0d0
 
 
